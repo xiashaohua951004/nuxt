@@ -1,4 +1,4 @@
-# mynuxt
+﻿# mynuxt
 
 > Nuxt.js project
 
@@ -24,4 +24,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 
 
-夏绍华nuxt123
+夏绍华nuxt123abc
