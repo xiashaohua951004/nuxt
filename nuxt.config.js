@@ -47,7 +47,7 @@ module.exports = {
 
   proxy: {
 
-    '/api': 'http://47.104.10.160:8081',
+    '/api': 'http://gwhtest.madonghua.com',
 
   }
 
